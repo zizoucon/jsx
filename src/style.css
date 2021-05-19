@@ -1,0 +1,17 @@
+.titleRed{
+text-align: center;
+color: blue;
+}
+
+.photo{
+    height: 200px;
+    width: 200px;
+    margin :5px;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px;
+    margin-top: 50px;
+}
